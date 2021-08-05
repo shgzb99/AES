@@ -1,0 +1,25 @@
+ikttan
+1.ikttan/asap-classification
+Text Classification with EASE
+
+Paper:
+Flexible Domain Adaptation for Automated Essay Scoring Using Correlated Linear Regression
+Peter Phandi1 Kian Ming A. Chai2 Hwee Tou Ng1
+1 Department of Computer Science, National University of Singapore
+{peter-p,nght}@comp.nus.edu.sg
+2 DSO National Laboratories
+ckianmin@dso.org.sg
+
+Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing, pages 431–439,
+Lisbon, Portugal, 17-21 September 2015. 
+c 2015 Association for Computational Linguistics.
+
+https://github.com/ikttan/asap-classification/blob/master/reference-papers/flexible-domain-adaptation-nus.pdf
+
+2.ikttan/maes
+Automated Essay Scoring with Shallow Linguistic Features
+
+v1 branch with feature extractions using EASE
+          with score predictions using SVM Human BLRR
+v2 branch 
+          to be added with domain adaptation
